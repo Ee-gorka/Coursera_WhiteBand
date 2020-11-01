@@ -1,0 +1,3 @@
+E:/Coursera_whiteband/Week_1/Greatest_common_divisor/cmake-build-debug/CMakeFiles/Greatest_common_divisor.dir
+E:/Coursera_whiteband/Week_1/Greatest_common_divisor/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Coursera_whiteband/Week_1/Greatest_common_divisor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

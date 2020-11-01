@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Coursera_whiteband/Week_4/Work_with_file/main.cpp
+fstream
+-
+
+E:/Coursera_whiteband/Week_4/Work_with_file/main2.cpp
+iostream
+-
+fstream
+-
+

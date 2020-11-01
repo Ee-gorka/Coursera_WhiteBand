@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Coursera_whiteband/Week_5/Final_Database/main.cpp
+iostream
+-
+string
+-
+exception
+-
+map
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+

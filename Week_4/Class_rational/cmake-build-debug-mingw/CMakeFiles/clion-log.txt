@@ -1,0 +1,24 @@
+"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin -G "CodeBlocks - MinGW Makefiles" E:\Coursera_whiteband\Week_4\Class_rational
+-- The C compiler identification is GNU 5.1.0
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: C:/TDM-GCC-64/bin/gcc.exe
+-- Check for working C compiler: C:/TDM-GCC-64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error at CMakeLists.txt:2 (project):
+  The CMAKE_CXX_COMPILER:
+
+    C:/Program
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "E:/Coursera_whiteband/Week_4/Class_rational/cmake-build-debug-mingw/CMakeFiles/CMakeOutput.log".
+See also "E:/Coursera_whiteband/Week_4/Class_rational/cmake-build-debug-mingw/CMakeFiles/CMakeError.log".

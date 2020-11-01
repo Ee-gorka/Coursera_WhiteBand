@@ -1,0 +1,3 @@
+E:/Coursera_whiteband/Week_3/Name_Surname_part2/cmake-build-debug/CMakeFiles/Name_Surname_part2.dir
+E:/Coursera_whiteband/Week_3/Name_Surname_part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Coursera_whiteband/Week_3/Name_Surname_part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
